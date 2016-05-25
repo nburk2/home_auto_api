@@ -1,4 +1,4 @@
 node{
 	stage "first stage"
-	sh "echo hello"
+	sh "echo hello jenkins"
 }
